@@ -1,3 +1,3 @@
 # Simple to-do-List
 **Симпатичный список задач :)**
-[Просто посмотреть](https://github.com/Ekaterina31415/To-do-List)
+[Просто посмотреть](https://ekaterina31415.github.io/To-do-List/)
